@@ -59,7 +59,7 @@
 
 <p><strong>AI & Data Science Student Learning From Building.</strong></p>
 <p>
-  - I am a self taught programmer.<br>
+  - Self taught programmer.<br>
   - I like building projects that challenge me, exploring new technologies and learning things that genuinely spark my curiosity.<br>
   - Always open to learning.<br>
   - If you have something exciting to discuss, I’d love to hear from you.
