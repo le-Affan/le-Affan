@@ -64,9 +64,3 @@
   - Always open to learning.<br>
   - If you have something exciting to discuss, I’d love to hear from you.
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=le-Affan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
