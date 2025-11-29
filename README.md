@@ -1,4 +1,4 @@
-![Banner]([https://github.com/le-Affan/le-Affan/blob/main/New_Banner])
+![Banner](Banner.png)
 
 <p align="center">
   <a href="https://wa.me/919167870478" target="_blank">
