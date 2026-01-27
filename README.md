@@ -52,7 +52,7 @@
 
 ## Helloo. I’m Affan  
 
-<p><strong>AI & Data Science Student Learning From Building.</strong></p>
+<p><strong>Here's a few things about me.</strong></p>
 <p>
   - Self taught programmer.<br>
   - I like building stuff that challenges me and forces me to learn.<br>
