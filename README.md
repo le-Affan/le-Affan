@@ -26,7 +26,7 @@
 
 ## Technologies I Have Worked With
 
-![My Skills](https://skillicons.dev/icons?i=aws,c,css,docker,fastapi,figma,firebase,flutter,git,github,go,html,js,latex,linux,lua,md,materialui,mongodb,mysql,nginx,notion,npm,opencv,pycharm,py,r,redis,regex,sqlite,sklearn,supabase,tailwind,tensorflow,ts,vite)
+![My Skills](https://skillicons.dev/icons?i=py,fastapi,docker,redis,git,github,linux,mongodb,mysql,sqlite,typescript,javascript,react,nodejs,tailwind,css,html,materialui,nginx,tensorflow,sklearn,opencv,npm,vite,aws,figma,firebase,supabase,notion,pycharm,latex,markdown,regex,r,lua,go,flutter,c)
 
 ---
 
